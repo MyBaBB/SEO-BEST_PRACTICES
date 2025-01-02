@@ -1,4 +1,4 @@
-<!-- note to self just push to deploy to github pages -->
+<!-- note to self just push to deploy to github pages-->
 ## Boost Your Website's Visibility and Engage More Customers with SEO Services
 This is an SEO description to try an sell somebody on SEO practices
 It has a little bit of everything, but it's not too long
